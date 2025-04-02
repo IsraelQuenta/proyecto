@@ -14,14 +14,13 @@ API RESTful para gestión académica con Spring Boot.
 ## 📋 Información Académica
 | **Campo**         | **Detalle**                               |
 |-------------------|-------------------------------------------|
-| **Universidad**   | [Universida Mayor de San Andres]          |
-| **Facultad**      | [Facultad de Ciencias Puras y Naturales]  |
-| **Carrera**       | [Informatica]                             |
-| **Asignatura**    | [Desarrollo Web Backend]                  |
-| **Docente**       | [Rosalia Lopez Montalvo]                  |
-| **Estudiante**    | [Israel Andres Quenta Pomacusi]           |
-| **Matrícula**     | [1845296]                                 |
-| **Fecha**         | [Fecha de Entrega]                        |
+| **Universidad**   | Universida Mayor de San Andres          |
+| **Facultad**      | Facultad de Ciencias Puras y Naturales  |
+| **Carrera**       | Informatica                             |
+| **Asignatura**    | Desarrollo Web Backend                  |
+| **Docente**       | Rosalia Lopez Montalvo                 |
+| **Estudiante**    | Israel Andres Quenta Pomacusi           |
+| **Matrícula**     | 1845296                                |
 
 ## 🛠 Tecnologías
 | Tecnología       | Versión   |
