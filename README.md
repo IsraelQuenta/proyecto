@@ -11,6 +11,18 @@ API RESTful para gestión académica con Spring Boot.
 - **Operaciones CRUD** en memoria (próximamente PostgreSQL).
 - **Patrón DTO** para transferencia de datos.
 
+## 📋 Información Académica
+| **Campo**         | **Detalle**                               |
+|-------------------|-------------------------------------------|
+| **Universidad**   | [Universida Mayor de San Andres]          |
+| **Facultad**      | [Facultad de Ciencias Puras y Naturales]  |
+| **Carrera**       | [Informatica]                             |
+| **Asignatura**    | [Desarrollo Web Backend]                  |
+| **Docente**       | [Rosalia Lopez Montalvo]                  |
+| **Estudiante**    | [Israel Andres Quenta Pomacusi]           |
+| **Matrícula**     | [1845296]                                 |
+| **Fecha**         | [Fecha de Entrega]                        |
+
 ## 🛠 Tecnologías
 | Tecnología       | Versión   |
 |------------------|-----------|
